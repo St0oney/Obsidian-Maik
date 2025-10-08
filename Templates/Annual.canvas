@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"4e77272734a07010","type":"text","text":"# Quartal 1  ","x":-1360,"y":-560,"width":1140,"height":400,"color":"5"},
+		{"id":"4b8ffe155aa5839e","type":"text","text":"# Home","x":-1340,"y":-500,"width":260,"height":320,"color":"2"},
+		{"id":"3caa5e36f10e868d","type":"text","text":"# Finanziell\n","x":-1060,"y":-500,"width":260,"height":320,"color":"6"},
+		{"id":"e4b3825a24431277","type":"text","text":"# Karriere\n\n\n","x":-780,"y":-500,"width":260,"height":320,"color":"3"},
+		{"id":"b8de4c3526a496ea","type":"text","text":"# Gesundheit\n\n","x":-500,"y":-500,"width":260,"height":320,"color":"4"},
+		{"id":"dc82537c3ce55673","type":"text","text":"# Quartal 3","x":-1360,"y":-60,"width":1140,"height":400,"color":"#efe70b"},
+		{"id":"6222d923c7ebe9e7","type":"text","text":"# Home","x":-1340,"y":0,"width":260,"height":320,"color":"2"},
+		{"id":"8132dbb9bffc9edb","type":"text","text":"# Finanziell","x":-1060,"y":0,"width":260,"height":320,"color":"6"},
+		{"id":"27b3725b0024e4be","type":"text","text":"# Karriere\n ","x":-780,"y":0,"width":260,"height":320,"color":"3"},
+		{"id":"2d08d6df927fd7f2","type":"text","text":"# Gesundheit","x":-500,"y":0,"width":260,"height":320,"color":"4"},
+		{"id":"ab32d62e8f453819","type":"text","text":"# Quartal 2  ","x":-140,"y":-560,"width":1140,"height":400,"color":"#3b8028"},
+		{"id":"af63b18cdf05511f","type":"text","text":"# Home","x":-120,"y":-500,"width":260,"height":320,"color":"2"},
+		{"id":"3e8af069e643b37a","type":"text","text":"# Finanziell","x":160,"y":-500,"width":260,"height":320,"color":"6"},
+		{"id":"7884a7697fea2c29","type":"text","text":"# Karriere\n","x":440,"y":-500,"width":260,"height":320,"color":"3"},
+		{"id":"8f762595b9657228","type":"text","text":"# Gesundheit","x":720,"y":-500,"width":260,"height":320,"color":"4"},
+		{"id":"ee051987e59e2c1f","type":"text","text":"# Quartal 4","x":-130,"y":-60,"width":1140,"height":400,"color":"#db8206"},
+		{"id":"a32d3a537d89bcbd","type":"text","text":"# Home","x":-110,"y":0,"width":260,"height":320,"color":"2"},
+		{"id":"b0cdc1b951d83544","type":"text","text":"# Finanziell","x":170,"y":0,"width":260,"height":320,"color":"6"},
+		{"id":"cb418d20fd4f43ca","type":"text","text":"# Karriere","x":450,"y":0,"width":260,"height":320,"color":"3"},
+		{"id":"d25d546bfc50a96e","type":"text","text":"# Gesundheit","x":730,"y":0,"width":260,"height":320,"color":"4"}
+	],
+	"edges":[]
+}

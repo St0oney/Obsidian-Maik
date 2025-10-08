@@ -1,0 +1,5 @@
+*Synchronisation der Kennwörter schlägt fehl*
+
+-> Wenn die Synchronisation der Kennwörter in Google Chrome fehlschlägt, kann es sein, dass der Keyring nicht korrekt in der Konfiguration hinterlegt ist. Das passiert nach einem Tausch des Desktopmanagers bsp. Wechsel von Gnome auf Hyprland 
+  -> die schnellste Lösung dafür ist, Chrome zu deinstallieren und die Konfigurationsdatei im Verzeichnis .config/google-chrome zu löschen. 
+  -> anschließend Chrome wieder installieren und die Synchronisation erneut versuchen.

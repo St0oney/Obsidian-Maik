@@ -1,0 +1,9 @@
+{
+  "last_successful_sync_id": 1004981,
+  "sync_folder": "remarkable",
+  "self_hosted": false,
+  "custom_host": {
+    "endpoint": "",
+    "client_secret": ""
+  }
+}

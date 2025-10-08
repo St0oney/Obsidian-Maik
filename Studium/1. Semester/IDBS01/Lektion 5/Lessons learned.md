@@ -1,0 +1,2 @@
+
+-> das Verbundkriterium muss nicht zwangsweise Übereinstimmungen haben. Falls es keine Übereinstimmungen gibt, werden trotzdem werte ausgegeben (LeftJoin und RightJoin). Außer bei einem InnerJoin. Hier kommen nur leere Werte raus
