@@ -1,3 +1,0 @@
-[[Datentypen - Datenbanken]]
-[[Verbundtypen]]
-[[Mengenoperationen]]

@@ -1,2 +1,0 @@
-> [[Host Details]]
-> [[VM Configuration]]

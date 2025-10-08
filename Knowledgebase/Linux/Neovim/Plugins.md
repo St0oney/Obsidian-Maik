@@ -1,3 +1,0 @@
-# Plugins
-*aktuell installierte Plugins*
-  
